@@ -8,7 +8,7 @@
 
 #include <stdbool.h>
 #include <sys/types.h>
-#include <selinux/selinux.h>
+#include "selinux.h"
 
 #ifdef __cplusplus
 extern "C" {

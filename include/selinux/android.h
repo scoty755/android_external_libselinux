@@ -5,7 +5,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-#include <selinux/label.h>
+#include "label.h"
 
 #ifdef __cplusplus
 extern "C" {

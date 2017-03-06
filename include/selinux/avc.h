@@ -9,7 +9,7 @@
 #include <stdint.h>
 #include <errno.h>
 #include <stdlib.h>
-#include <selinux/selinux.h>
+#include "selinux.h"
 
 #ifdef __cplusplus
 extern "C" {
